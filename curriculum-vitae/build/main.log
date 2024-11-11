@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 06:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 07:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -833,61 +833,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 126.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 127.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 127.
+(Font)              scaled to size 9.0pt on input line 136.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 136.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-<disney.png, id=33, 225.84375pt x 225.84375pt>
-File: disney.png Graphic file (type png)
-<use disney.png>
-Package pdftex.def Info: disney.png  used on input line 127.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
-<medal.jpeg, id=34, 225.84375pt x 225.84375pt>
-File: medal.jpeg Graphic file (type jpg)
-<use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 128.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 135.
- (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomeone.fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 135.
-File: disney.png Graphic file (type png)
-<use disney.png>
-Package pdftex.def Info: disney.png  used on input line 135.
-(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
-File: medal.jpeg Graphic file (type jpg)
-<use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 136.
-(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
-File: medal.jpeg Graphic file (type jpg)
-<use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 137.
-(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 144.
-File: disney.png Graphic file (type png)
-<use disney.png>
-Package pdftex.def Info: disney.png  used on input line 153.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
-File: medal.jpeg Graphic file (type jpg)
-<use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 154.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 170.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 180.
+<intel.png, id=33, 256.96pt x 256.96pt>
+File: intel.png Graphic file (type png)
+<use intel.png>
+Package pdftex.def Info: intel.png  used on input line 136.
+(pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
+<ibm.png, id=34, 256.96pt x 256.96pt>
+File: ibm.png Graphic file (type png)
+<use ibm.png>
+Package pdftex.def Info: ibm.png  used on input line 146.
+(pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
+File: intel.png Graphic file (type png)
+<use intel.png>
+Package pdftex.def Info: intel.png  used on input line 157.
+(pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
+<foncs.png, id=36, 513.92pt x 513.92pt>
+File: foncs.png Graphic file (type png)
+<use foncs.png>
+Package pdftex.def Info: foncs.png  used on input line 165.
+(pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 
-Overfull \hbox (22.04874pt too wide) in paragraph at lines 202--209
+Overfull \hbox (19.419pt too wide) in paragraph at lines 126--171
+[][]
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 184.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 210.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 220.
+
+Overfull \hbox (22.04874pt too wide) in paragraph at lines 242--249
 [][] 
  []
 
 [1
 
-{C:/Users/Alexis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_yqxcf3.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmckq.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_2bcjq6.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc} <./disney.png> <./medal.jpeg>] (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.aux)
+{C:/Users/Alexis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_yqxcf3.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmckq.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_2bcjq6.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./intel.png> <./ibm.png> <./foncs.png>] [2] (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -896,17 +884,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28253 strings out of 474485
- 577004 string characters out of 5743261
- 1965542 words of memory out of 5000000
+ 28249 strings out of 474485
+ 576710 string characters out of 5743261
+ 1964542 words of memory out of 5000000
  50002 multiletter control sequences out of 15000+600000
- 773405 words of font info for 76 fonts, out of 8000000 for 9000
+ 759904 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,13n,135p,503b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,12n,135p,503b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Alexis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0800.pk><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Bold.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Italic.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.pdf (1 page, 136170 bytes).
+Output written on c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.pdf (2 pages, 145397 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
