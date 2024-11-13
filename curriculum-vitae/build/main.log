@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 07:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  13 NOV 2024 06:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -701,42 +701,52 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen283
 \Gm@layoutvoffset=\dimen284
 \Gm@dimlist=\toks39
- (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+ (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks40
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 \rightcolwidth=\skip57
 \leftcolwidth=\skip58
-LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input line 28.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/raleway\t1raleway-tlf.fd
 File: T1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for T1/Raleway-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 26.
+(Font)              scaled to size 10.0pt on input line 28.
  (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 26.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 28.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    ... okay on input line 28.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count324
@@ -744,19 +754,19 @@ LaTeX Font Info:    ... okay on input line 26.
 \scratchbox=\box101
 \nofMPsegments=\count325
 \nofMParguments=\count326
-\everyMPshowfont=\toks40
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count327
 \MPscratchDim=\dimen286
 \MPnumerator=\count328
 \makeMPintoPDFobject=\count329
-\everyMPtoPDFconversion=\toks41
+\everyMPtoPDFconversion=\toks42
 ) (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 28.
  (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.out) (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -797,85 +807,102 @@ Package hyperref Info: Link coloring OFF on input line 26.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 32.
+(Font)              scaled to size 10.0pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 32.
+(Font)              scaled to size 14.4pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 34.
+(Font)              scaled to size 24.88pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 34.
+(Font)              scaled to size 24.88pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 40.
+(Font)              scaled to size 12.0pt on input line 42.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 40.
+(Font)              scaled to size 12.0pt on input line 42.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 54.
+(Font)              scaled to size 8.0pt on input line 56.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 61.
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 85.
+(Font)              scaled to size 8.0pt on input line 63.
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 87.
 (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/raleway\ts1raleway-tlf.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 85.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 103.
+(Font)              scaled to size 8.0pt on input line 87.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 105.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 123.
+(Font)              scaled to size 9.0pt on input line 128.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 124.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 126.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 126.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 126.
+(Font)              scaled to size 9.0pt on input line 129.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 131.
+ (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 131.
+ (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 136.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 136.
+(Font)              scaled to size 9.0pt on input line 141.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 141.
  (C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 <intel.png, id=33, 256.96pt x 256.96pt>
 File: intel.png Graphic file (type png)
 <use intel.png>
-Package pdftex.def Info: intel.png  used on input line 136.
+Package pdftex.def Info: intel.png  used on input line 141.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 <ibm.png, id=34, 256.96pt x 256.96pt>
 File: ibm.png Graphic file (type png)
 <use ibm.png>
-Package pdftex.def Info: ibm.png  used on input line 146.
+Package pdftex.def Info: ibm.png  used on input line 151.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 File: intel.png Graphic file (type png)
 <use intel.png>
-Package pdftex.def Info: intel.png  used on input line 157.
-(pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
-<foncs.png, id=36, 513.92pt x 513.92pt>
-File: foncs.png Graphic file (type png)
-<use foncs.png>
-Package pdftex.def Info: foncs.png  used on input line 165.
+Package pdftex.def Info: intel.png  used on input line 162.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 
-Overfull \hbox (19.419pt too wide) in paragraph at lines 126--171
+Overfull \hbox (19.419pt too wide) in paragraph at lines 131--176
 [][]
  []
 
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 184.
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 180.
+(C:\Users\Alexis\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomeone.fd
+File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
+)
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 210.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 220.
+(Font)              scaled to size 7.0pt on input line 180.
+<uvm.png, id=36, 225.84375pt x 225.84375pt>
+File: uvm.png Graphic file (type png)
+<use uvm.png>
+Package pdftex.def Info: uvm.png  used on input line 180.
+(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
+File: uvm.png Graphic file (type png)
+<use uvm.png>
+Package pdftex.def Info: uvm.png  used on input line 181.
+(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
 
-Overfull \hbox (22.04874pt too wide) in paragraph at lines 242--249
+Overfull \hbox (20.55789pt too wide) in paragraph at lines 179--184
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 189.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 215.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 225.
+
+Overfull \hbox (22.04874pt too wide) in paragraph at lines 247--254
 [][] 
  []
 
 [1
 
-{C:/Users/Alexis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_yqxcf3.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmckq.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_2bcjq6.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./intel.png> <./ibm.png> <./foncs.png>] [2] (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.aux)
+{C:/Users/Alexis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_yqxcf3.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_bzmckq.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/raleway/a_2bcjq6.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc} <./intel.png> <./ibm.png> <./uvm.png>] [2] (c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -884,17 +911,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28249 strings out of 474485
- 576710 string characters out of 5743261
- 1964542 words of memory out of 5000000
- 50002 multiletter control sequences out of 15000+600000
- 759904 words of font info for 74 fonts, out of 8000000 for 9000
+ 28799 strings out of 474485
+ 583413 string characters out of 5743261
+ 1966542 words of memory out of 5000000
+ 50526 multiletter control sequences out of 15000+600000
+ 775329 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,12n,135p,503b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,13n,135p,503b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Alexis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0800.pk><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Bold.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Italic.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/raleway/Raleway-Regular.pfb><C:/Users/Alexis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.pdf (2 pages, 145397 bytes).
+Output written on c:\Users\Alexis\Desktop\git_repos\LaTex-projects\curriculum-vitae\build\main.pdf (2 pages, 139497 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
